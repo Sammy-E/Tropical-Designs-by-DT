@@ -37,4 +37,14 @@ section {
 .capabilities p,
 .differentiators p {
     margin-bottom: 10px;
-}
+} 
+
+.deux-enfants {
+    width: 300px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+} 
+
+.deux-garçons {
+    width: 400px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+} 
