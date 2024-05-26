@@ -28,7 +28,8 @@ section {
 .mission h2,
 .about h2,
 .capabilities h2,
-.differentiators h2 {
+.differentiators h2, 
+.contact {
     color: #F58426;
 }
 
@@ -65,6 +66,11 @@ section {
 } 
 
 .femme-en-rose {
+    width: 336px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+} 
+
+.contact-info {
     width: 336px; /* Adjust the width as needed */
     height: auto; /* Maintain aspect ratio */
 } 
