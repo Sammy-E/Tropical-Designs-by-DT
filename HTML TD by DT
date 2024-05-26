@@ -8,14 +8,16 @@
 </head>
 <body>
     <header>
-        <h1>TROPICAL DESIGNS</h1>
+        <h1>TROPICAL DESIGNS</h1> 
+
     </header>
     <section class="mission">
         <h2>Mission Statement:</h2>
         <p>To be a brand that champions self-love and self-care, providing high-quality clothing that builds positive body image at an affordable price.</p>
     </section>
     <section class="about">
-        <h2>Who We Are:</h2>
+        <h2>Who We Are:</h2> 
+
         <p>Tropical Designs is a clothing and accessories brand that caters to any demographic population.</p> 
       
       <img src="https://raw.githubusercontent.com/Sammy-E/Tropical-Designs-by-DT/main/famille%20deux%20enfants.jpg" alt="Example Photo"  class = "deux-enfants"> 
@@ -31,7 +33,8 @@
         <p>The company is based in Dover, Delaware and the products are from Paris, France. We are a fully vertical company, managing design, manufacturing, sales, and marketing. We promise style, elegance, and versatility for the everyday man and woman at very affordable prices.</p>
     </section>
     <section class="capabilities">
-        <h2>Capabilities</h2>
+        <h2>Capabilities</h2> 
+
         <p>We design some of our clothing and purchase from local vendors in Paris, France, as well. We sell full lifestyle lines of clothing, including accessories (tops, bottoms, dresses in various lengths, jewelry, ties, and handbags). We shoot photos and videos of each style for marketing and sales purposes.</p> 
       
        <img src="https://raw.githubusercontent.com/Sammy-E/Tropical-Designs-by-DT/main/une%20cravate%20en%20ankara.png" alt="Example Photo" class = "la-cravate"> 
@@ -40,13 +43,23 @@
       
     </section>
     <section class="differentiators">
-        <h2>Differentiators</h2>
+        <h2>Differentiators</h2> 
+
         <p>At Tropical Designs, we strive to maximize sustainability along with style, functionality, and quality craftsmanship. Emphasizing craftsmanship, we design and produce our products with great attention to detail. Many of our styles can be worn in multiple seasons. Our items set us apart in the contemporary market. We offer an experience that bridges the gap between sexy, stylish apparel that is eco-friendly while also catering to all body types and budgets.</p> 
       
       <img src="https://raw.githubusercontent.com/Sammy-E/Tropical-Designs-by-DT/main/famille%20la%20mode.jpg" alt="Example Photo" class = "deux-garçons"> 
       
       <img src="https://raw.githubusercontent.com/Sammy-E/Tropical-Designs-by-DT/main/femme%20en%20rose.jpeg" alt="Example Photo" class = "femme-en-rose">
       
-    </section>
+    </section> 
+
+</section>
+    <section class="contact">
+        <h3>Contact Info</h2> 
+      
+      <img src="https://raw.githubusercontent.com/Sammy-E/Tropical-Designs-by-DT/main/famille%20la%20mode.jpg" alt="Example Photo" class = "contact-info"> 
+      
+    </section> 
+
 </body>
 </html>
