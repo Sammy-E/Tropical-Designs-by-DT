@@ -40,11 +40,31 @@ section {
 } 
 
 .deux-enfants {
-    width: 300px; /* Adjust the width as needed */
+    width: 250px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+} 
+
+.asiatique-en-ankara {
+    width: 150px; /* Adjust the width as needed */
     height: auto; /* Maintain aspect ratio */
 } 
 
 .deux-garçons {
-    width: 400px; /* Adjust the width as needed */
+    width: 350px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+} 
+
+.la-cravate {
+    width: 195px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+} 
+
+.porte-monnaie {
+    width: 350px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+} 
+
+.femme-en-rose {
+    width: 336px; /* Adjust the width as needed */
     height: auto; /* Maintain aspect ratio */
 } 
